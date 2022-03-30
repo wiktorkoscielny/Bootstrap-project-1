@@ -14,5 +14,5 @@ This page need some styling and functionalities yet.
 
 ## This site was built using:
 *Keep coding*
-[Github Page](https://github.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial.git)
-[Youtube Channel](https://youtu.be/1v_XcJsGtyA)
+* [Github Page](https://github.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial.git)
+* [Youtube Channel](https://youtu.be/1v_XcJsGtyA)
